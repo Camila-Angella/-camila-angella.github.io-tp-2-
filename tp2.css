@@ -11,8 +11,11 @@ body{
  
      }
      
-     
- 
+     /*Carrousel*/
+ .Estructura-1 .carrousel img{
+height: 30px;
+ }
+
  h1{
      text-align: center;
      font-family:'Times New Roman', Times, serif;
